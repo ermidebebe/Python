@@ -1,0 +1,7 @@
+i am electrical and computer engineering student in addis ababa university and matlab is one of the most important and 
+highly needed course and also i am  working digital signal processing project related to image processing and it highly
+utilizes matrix operation and from it's definition matlab is matrix laboratory and it has alot of built in functions
+ and libraries to work with matrix and also to work with image , learning matlab  will help me  alot and it will ease my work.
+i this semister i am taking  introduction to communication systems my teacher gave me project to design communication system that full utilizes  matlab and its built in 
+functions .and to work on this project perfectly  i must master matlab to design communication systems. matlab is  one the most important
+ for programming, designing ,and simulating in industry and it is one of the most needed talents for job application and this course will me alot to gain the knowledge needed for this things.

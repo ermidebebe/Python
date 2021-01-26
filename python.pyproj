@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{d2c7fae0-1bf6-4ac2-bac2-508f3b820cf1}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile>a2.py</StartupFile>
+    <SearchPath />
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <InterpreterId />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include=".metadata\version.ini" />
+    <Content Include="board1.txt" />
+    <Content Include="wordlist1.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="a2.py" />
+    <Compile Include="a3.py" />
+    <Compile Include="a3_driver.py" />
+    <Compile Include="basic.py" />
+    <Compile Include="best method.py" />
+    <Compile Include="best travel.py" />
+    <Compile Include="binary to decimal.py" />
+    <Compile Include="birthday.py" />
+    <Compile Include="break.py" />
+    <Compile Include="capitalize.py" />
+    <Compile Include="colors.py" />
+    <Compile Include="course information.py" />
+    <Compile Include="date printer.py" />
+    <Compile Include="day.py" />
+    <Compile Include="dice.py" />
+    <Compile Include="diviblity.py" />
+    <Compile Include="door mat.py" />
+    <Compile Include="even and odd.py" />
+    <Compile Include="factorial.py" />
+    <Compile Include="fibonacci.py" />
+    <Compile Include="for.py" />
+    <Compile Include="format.py" />
+    <Compile Include="formated.py" />
+    <Compile Include="haid or tail.py" />
+    <Compile Include="hot dog.py" />
+    <Compile Include="identify.py" />
+    <Compile Include="in.py" />
+    <Compile Include="initials.py" />
+    <Compile Include="largest occurance.py" />
+    <Compile Include="largest odd.py" />
+    <Compile Include="List Command.py" />
+    <Compile Include="list compression.py" />
+    <Compile Include="List sort.py" />
+    <Compile Include="Lo shu magic square.py" />
+    <Compile Include="Lottery.py" />
+    <Compile Include="name.py" />
+    <Compile Include="new.py" />
+    <Compile Include="number of peaple in bus.py" />
+    <Compile Include="palidrome.py" />
+    <Compile Include="pattern1.py" />
+    <Compile Include="pay.py" />
+    <Compile Include="payment.py" />
+    <Compile Include="payRol.py" />
+    <Compile Include="percentage.py" />
+    <Compile Include="profit.py" />
+    <Compile Include="pythagorean.py" />
+    <Compile Include="random.py" />
+    <Compile Include="runner up.py" />
+    <Compile Include="second lowest.py" />
+    <Compile Include="segment.py" />
+    <Compile Include="song decoder.py" />
+    <Compile Include="starting.py" />
+    <Compile Include="Strip comments.py" />
+    <Compile Include="student login.py" />
+    <Compile Include="students grade.py" />
+    <Compile Include="succuss.py" />
+    <Compile Include="text wrap.py" />
+    <Compile Include="tribonacci.py" />
+    <Compile Include="turtle.py" />
+    <Compile Include="validate password.py" />
+    <Compile Include="weird.py" />
+    <Compile Include="wing.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include=".metadata" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+</Project>

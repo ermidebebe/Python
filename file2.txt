@@ -1,0 +1,11 @@
+ldr 59
+movi b 59
+sub a
+brz 0b
+ldr 59;
+out
+ldr 59
+movi b 01
+add a
+str 59
+br 00

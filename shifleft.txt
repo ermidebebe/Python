@@ -1,0 +1,4 @@
+movi a 12
+shl a
+str 03
+br 00

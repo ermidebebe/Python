@@ -1,0 +1,4 @@
+movi a 01
+movi b 02
+add a
+str 00

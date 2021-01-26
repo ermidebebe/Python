@@ -1,0 +1,17 @@
+movi a 30
+str 00
+movi b 0b
+ldr 01
+sub a
+brz 10
+ldr 00
+movr
+ldr 01
+add a
+out
+ldr 01
+movi b 01
+add a
+str 01
+br 00
+
